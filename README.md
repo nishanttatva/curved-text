@@ -16,6 +16,10 @@ function App(props) {
 }
 ```
 
+#### Info
+
+SVG curve path generated using [DrawSVG](https://www.drawsvg.org/drawsvg.html)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
